@@ -12,3 +12,11 @@
     DAY002   MD       *
     MAKECOOR REXX
     MAKEAIM  REXX
+*
+    DAY003   MD
+    BINGO    REXX
+    BINGOHIT REXX
+    BINGOCNT REXX
+*
+    DAY004   MD
+    BINGOADD REXX
