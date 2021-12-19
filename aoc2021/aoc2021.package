@@ -24,6 +24,13 @@
     DAY005   MD
     MAKEVENT REXX
 *
+    DAY009   MD
+    DAY09D   REXX
+*
+    DAY010   MD
+    DAY10A   REXX     * Parse strings for open/close brackets
+    DAY10B   REXX     * Add numbers in first 10 columns
+*
     DAY013   MD       *
     DAY13F   REXX     * Transform coordinates to a grid
     DAY13G   REXX     * Extract fold instructions and mirror
