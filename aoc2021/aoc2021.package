@@ -12,3 +12,23 @@
     DAY002   MD       *
     MAKECOOR REXX
     MAKEAIM  REXX
+*
+    DAY003   MD
+    BINGO    REXX
+    BINGOHIT REXX
+    BINGOCNT REXX
+*
+    DAY004   MD
+    BINGOADD REXX
+*
+    DAY005   MD
+    MAKEVENT REXX
+*
+    DAY013   MD       *
+    DAY13F   REXX     * Transform coordinates to a grid
+    DAY13G   REXX     * Extract fold instructions and mirror
+    DAY13XY  REXX     * Fold once along X or Y
+    DAY13H   REXX     * Plot on grid and fold the grid
+    DAY13C   REXX
+    DAY13D   REXX
+*
